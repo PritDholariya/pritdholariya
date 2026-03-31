@@ -16,7 +16,7 @@ I also enjoy connecting with like-minded people who share a passion for technolo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-in/prit-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](www.linkedin.com/in/prit-dholariya-8870b2238) [![Twitter](https://img.shields.io/badge/TWITTER-prit-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Prit_Dholariya_) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32567591/prit-dholariya)
+[![LinkedIn](https://img.shields.io/badge/linkedin-in/prit-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://linkedin.com/in/prit-dholariya-8870b2238) [![Twitter](https://img.shields.io/badge/TWITTER-prit-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Prit_Dholariya_) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32567591/prit-dholariya)
 
 <!-- 
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/prit) [![](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://pritdholariya.com) -->
