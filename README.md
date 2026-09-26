@@ -5,7 +5,7 @@
 </p>
 <br>
 
-I’m passionate about full-stack development, machine learning, and DevOps, with a strong curiosity for how modern technologies come together to build powerful systems. The capabilities of large language models especially fascinate me, and I’m constantly exploring new ways to apply AI in creative and practical contexts. Beyond software, I enjoy diving into hardware to better understand how computers work at a deeper level. I’m particularly interested in bridging the gap between hardware and software by integrating machine learning and AI into real-world applications.
+I'm a full-stack developer with strong AI engineering skills, passionate about building complete systems, from backend APIs and databases to intuitive frontends and intelligent AI layers on top. Large language models especially fascinate me, and I'm constantly exploring new ways to apply RAG, agentic workflows and machine learning in creative and practical contexts. Beyond writing code, I enjoy understanding how modern technologies come together, from cloud and DevOps to the hardware underneath. I'm particularly interested in bridging the gap between traditional software and AI by integrating machine learning and LLMs into real-world applications that people actually use.
 
 I also enjoy connecting with like-minded people who share a passion for technology, innovation, and pushing the boundaries of what’s possible.
 
